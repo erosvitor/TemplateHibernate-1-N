@@ -21,7 +21,13 @@ CREATE SCHEMA biblioteca DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
 
 Obs.: As tabelas serão criadas automaticamente pelo Hibernate.
 
-## Release History
+## Status do projeto
+O projeto esta com as seguintes pendências:
+
+* Exemplos de alteração de dados
+* Exemplos de exclusão de dados
+
+## Histórico de lançamentos
 
 * 1.0.0 (2021-02-22)
     * Primeira versão
